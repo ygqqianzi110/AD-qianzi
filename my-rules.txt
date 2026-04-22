@@ -1,49 +1,3 @@
-! Title: My Custom Ad & Tracker Blocklist
-! Description: 自定义广告和跟踪器拦截规则，重点针对京东、百度、欢太、虎扑等平台
-! Version: 1.0.1
-! Expires: 7 days
-! Homepage: https://github.com/yggqianzi110/my-adguard-rules
-! Last modified: 2026-04-22
-
-! ***************************
-! 核心规则 (基于你提供的列表)
-! ***************************
-! 拦截百度联盟广告
-||mime.baidu.com^$important
-
-! 拦截京东相关广告、监控、活动请求
-||uranus.jd.com^$important
-||jstatic.3.cn^$important
-||h5st.m.jd.com^$important
-||ap-dd1.jd.com^$important
-||ap4-mt.jd.com^$important
-||pro.m.jd.com^$important
-||jcap.m.jd.com^$important
-||jcapmonitor.m.jd.com^$important
-||fireactive.jd.com^$important
-||ccf.m.jd.com^$important
-
-! 拦截OPPO/realme(欢太)相关广告
-||sms.ads.heytapmobi.com^$important
-||cl-data.ads.heytapmobi.com^$important
-||ocloud-uni-gl.heytapmobi.com^$important
-
-! 拦截虎扑广告
-||jvod.300hu.com^$important
-
-! ***************************
-! 可选补充规则（按需启用）
-! ***************************
-! 阻止常见广告域名
-||adservice.google.com^$important
-||pagead2.googlesyndication.com^$important
-||ad.doubleclick.net^$important
-
-! 阻止国内常见广告SDK
-||gdt.qq.com^$important
-||bdimg.com^$important
-||sinaimg.cn^$important
-
 ! ***************************
 ! 白名单规则（避免误杀）
 ! ***************************
@@ -58,6 +12,7 @@
 ! 允许虎扑首页正常加载
 @@||hupu.com^$document
 @@||m.hupu.com^$document
+
 #维护的广告黑名单
 ||anti-sdk-report.m.jd.com^$important
 ||heracles.jd.com^$important
