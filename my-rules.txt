@@ -14,6 +14,8 @@
 @@||m.hupu.com^$document
 
 #维护的广告黑名单
+||storage.jd.com^$important
+||sdkfp.jd.com^$important
 ||anti-sdk-report.m.jd.com^$important
 ||heracles.jd.com^$important
 ||ccflbs.m.jd.com^$important
