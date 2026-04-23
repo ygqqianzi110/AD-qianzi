@@ -14,6 +14,27 @@
 @@||m.hupu.com^$document
 
 #维护的广告黑名单
+||tongji.qiumibao.com^$important
+||tdid.m.qq.com^$important
+||sdk-config.tanx.com^$important
+||sdk.e.qq.com^$important
+||a.qiumibao.com^$important
+||ggtg.duoduocdn.com^$important
+||cnlogs.umengcloud.com^$important
+||cnlogs.umeng.com^$important
+||resolve.umeng.com^$important
+||tobapplog.ctobsnssdk.com^$important
+||toblog.ctobsnssdk.com^$important
+||sf6-fe-tos.pglstatp-toutiao.com^$important
+||api-access.pangolin-sdk-toutiao.com^$important
+||config.jpush.cn^$important
+||config-ipv6.jpush.cn^$important
+||sofire-dr.baidu.com^$important
+||cnloc.map.baidu.com^$important
+||lbs.map.qq.com^$important
+||aps.amap.com^$important
+||mime.baidu.com^$important
+||push-ads-cn.heytapmobi.com^$important
 ||waapdg.jd.com^$important
 ||discover.300hu.com^$important
 ||logos.kiwibrowser.com^$important
