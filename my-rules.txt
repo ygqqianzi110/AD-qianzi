@@ -85,7 +85,6 @@
 ||api.tuisong.baidu.com^$important
 ||sofire.baidu.com^$important
 ||common.lcs.baidu.com^$important
-||newclient.map.baidu.com^$important
 ||video-sh.cloudvideocdn.taobao.com^$important
 ||cloud.video.taobao.com^$important
 ||asearch.alicdn.com^$important
