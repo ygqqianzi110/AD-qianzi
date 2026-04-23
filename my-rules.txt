@@ -13,7 +13,7 @@
 @@||hupu.com^$document
 @@||m.hupu.com^$document
 
-#维护的广告黑名单
+！ 维护的广告黑名单
 ||tongji.qiumibao.com^$important
 ||tdid.m.qq.com^$important
 ||sdk-config.tanx.com^$important
