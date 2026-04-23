@@ -14,6 +14,10 @@
 @@||m.hupu.com^$document
 
 #维护的广告黑名单
+||waapdg.jd.com^$important
+||discover.300hu.com^$important
+||logos.kiwibrowser.com^$important
+||obus-cn.dc.heytapmobi.com^$important
 ||storage.jd.com^$important
 ||sdkfp.jd.com^$important
 ||anti-sdk-report.m.jd.com^$important
