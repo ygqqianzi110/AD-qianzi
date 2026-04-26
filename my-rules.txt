@@ -14,6 +14,20 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||gdt.qq.com^
+||gdtimg.com^
+||ugdtimg.com^
+||tanx.com^
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^
+||easytomessage.com^
+||umeng.com^
+||umengcloud.com^
+||aliyuncs.com/adash-emas
+||ctobsnssdk.com^
+||snssdk.com^
+||jpush.cn^
+||jpush.io^
 ||et.tanx.com^
 ||tongji.qiumibao.com^$important
 ||tdid.m.qq.com^$important
