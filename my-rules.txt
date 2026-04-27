@@ -14,6 +14,7 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||boss.hdslb.com^
 ||app.bilibili.com/x/v2/splash/brand/list^
 ||app.bilibili.com/x/v2/splash/show^
 ||grpc.biliapi.net^$important
