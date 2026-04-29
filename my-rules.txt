@@ -4,6 +4,36 @@
 ! 允许京东首页正常加载
 @@||jd.com^$document
 @@||m.jd.com^$document
+@@||collect.alipay.com^$important
+@@||bailingual-assets.alipay.com^$important
+@@||os.alipayobjects.com^$important
+@@||mdn-ptn-js.alipay.com^$important
+@@||mdn.alipay.com^$important
+@@||mdn.alipayobjects.com^$important
+@@||render.alipay.com^$important
+@@||as.alipayobjects.com^$important
+@@||datagw-edge.alipay.com^$important
+@@||gw.alipayobjects.com^$important
+@@||apilocate.amap.com^$important
+@@||dualstack-a.apilocate.amap.com^$important
+@@||page.cainiao.com^
+@@||lpc-mtop.cainiao.com^
+@@||netflow-mtop.cainiao.com^
+@@||audid-api.taobao.com^
+@@||amdc.m.taobao.com^
+@@||guide-acs.m.taobao.com^
+@@||dataservice.alipayobjects.com^
+@@||mdn.alipayobjects.com^
+@@||edgegw.alipay.com^
+@@||report-user-online-event.*.log.aliyuncs.com^
+@@||render.alipay.com^
+@@||a.alipayobjects.com^
+@@||as.alipayobjects.com^
+@@||g.alicdn.com^
+@@||mobileic.alipay.com^
+@@||securitycore.alipay.com^
+@@||amdc.alipay.com^
+@@||aquic.alipay.com^
 
 ! 允许百度首页正常加载
 @@||baidu.com^$document
