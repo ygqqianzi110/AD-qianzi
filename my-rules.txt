@@ -44,6 +44,26 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||bytemastatic.com^
+||mon.snssdk.com^
+||id6.me^
+||aeventlog.beacon.qq.com^
+||iceudpstat.xdrtc.com^
+||ice-stunserver-v6.xdrtc.com^
+||ice-stunserver.xdrtc.com^
+||hbiceapi.xdrtc.com^
+||douyin.starrydyn.com^
+||puncher-ipv6.dcdn.baidu.com^
+||d001.ppos.com^
+||pdns.dnspod.cn^
+||vc-hj-new-brain-v6.ndcpp.com^
+||vc-hj-new-brain.ndcpp.com^
+||vc-hole-v6.ndcpp.com^
+||vc-brain-new-v6.ndcpp.com^
+||vc-mirror-v6.ndcpp.com^
+||vc-hole.ndcpp.com^
+||vc-brain-new.ndcpp.com^
+||seeds-open.comfylink.com^
 ||boss.hdslb.com^
 ||app.bilibili.com/x/v2/splash/brand/list^
 ||app.bilibili.com/x/v2/splash/show^
