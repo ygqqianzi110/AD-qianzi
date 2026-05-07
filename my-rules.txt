@@ -44,6 +44,21 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||adash-emas.cn-hangzhou.aliyuncs.com^
+||log.snssdk.com^
+||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||win.gdt.qq.com^
+||sdk.e.qq.com^
+||mi.gdt.qq.com^
+||et.tanx.com^
+||cache.qiumibao.com^
+||image.uczzd.cn^
+||api.sm.cn^
+||huichuan.sm.cn^
+||tu.duoduocdn.com^
+||errnewlog.umeng.com^
+||o427061.ingest.sentry.io^
 ||bytemastatic.com^
 ||mon.snssdk.com^
 ||id6.me^
