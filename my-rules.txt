@@ -2,6 +2,7 @@
 ! 白名单规则（避免误杀）
 ! ***************************
 ! 允许京东首页正常加载
+@@||douyin.starrydyn.com^$important
 @@||jd.com^$document
 @@||m.jd.com^$document
 @@||collect.alipay.com^$important
