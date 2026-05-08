@@ -68,7 +68,6 @@
 ||ice-stunserver-v6.xdrtc.com^
 ||ice-stunserver.xdrtc.com^
 ||hbiceapi.xdrtc.com^
-||douyin.starrydyn.com^
 ||puncher-ipv6.dcdn.baidu.com^
 ||d001.ppos.com^
 ||pdns.dnspod.cn^
