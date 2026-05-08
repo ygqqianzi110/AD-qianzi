@@ -129,10 +129,9 @@
 ||ccflbs.m.jd.com^$important
 ||policy.jd.com^$important
 ||mars.jd.com^$important
-||weather-server.allawnos.com^
 ||optimizationguide-pa.googleapis.com^$important
 ||basic-static-server.infinitynewtab.com^$important
-||weatheroffer.com^$important
+||weatheroffer.com
 ||appassets.androidplatform.net^$important
 ||odin-inference-cn.allawntech.com^$important
 ||log-auth.zztfly.com^$important
