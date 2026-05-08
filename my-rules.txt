@@ -55,6 +55,18 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||tracking.miui.com^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||ad.mi.com^
+||tat.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||stat.pandora.xiaomi.com^
+||de.pandora.xiaomi.com^
+||dc-dragate-cn.heytapmobi.com^
+||app-measurement.com^
+||graph.facebook.com^
+||ahdohpiechei.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||log.snssdk.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
