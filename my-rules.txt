@@ -55,6 +55,20 @@
 @@||m.hupu.com^$document
 
 ！ 维护的广告黑名单
+||impress.qiumibao.com^
+||cache.qiumibao.com^
+||appck.qiumibao.com^
+||bifen3.qiumibao.com^
+||nc.qiumibao.com^
+||duihui.duoduocdn.com^
+||mkt-advertisement.tuhu.cn^
+||errnewlog.umeng.com^
+||abtest-ch.snssdk.com^
+||optimizationguide-pa.googleapis.com^
+||client-upload.cn-shanghai.log.aliyuncs.com^
+||acpstatic.cup.com.cn^
+||gw.alicdn.com^
+||guide-acs.m.taobao.com^
 ||tracking.miui.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
