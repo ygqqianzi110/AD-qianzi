@@ -93,7 +93,6 @@
 ||image.uczzd.cn^
 ||api.sm.cn^
 ||huichuan.sm.cn^
-||tu.duoduocdn.com^
 ||errnewlog.umeng.com^
 ||o427061.ingest.sentry.io^
 ||bytemastatic.com^
