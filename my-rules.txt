@@ -170,7 +170,6 @@
 ||asearch.alicdn.com^
 ||ilce.alicdn.com^
 ||netflow-reply-mtop.cainiao.com^
-||netflow-mtop.cainiao.com^
 ||lpc-mtop.cainiao.com^
 ||report-user-online-event.*.log.aliyuncs.com^
 ||dataservice.alipayobjects.com^
