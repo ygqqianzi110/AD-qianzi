@@ -1,5 +1,3 @@
-! ========== 广告 & 疑似广告 & 追踪器 ==========
-
 ! --- 通用广告/追踪平台 ---
 ||app-measurement.com^
 ||graph.facebook.com^
@@ -183,3 +181,39 @@
 ||api.tuisong.baidu.com^
 ||sofire.baidu.com^
 ||common.lcs.baidu.com^
+! ----- 广点通及腾讯广告服务 (Tencent GDT & Ads) -----
+||v.gdt.qq.com^
+||vr.gdt.qq.com^
+||xs.gdt.qq.com^
+||rpt.gdt.qq.com^
+||isrpt-vn.gdt.qq.com^
+||adsmind.gdtimg.com^
+||pgdt.gdtimg.cn^
+||sdkreport.e.qq.com^
+
+! ----- 第三方广告与统计平台 (Third-Party Ads & Tracking) -----
+||tytx.m.cn.miaohen.com^
+||v2.reachmax.cn^
+||t.in-neo.cn^
+
+! ----- 腾讯数据分析/统计/崩溃上报 (Analytics, Telemetry & Logs) -----
+||galileotelemetry.tencent.com^
+||beacon.cdn.qq.com^
+||mqqeve.beacon.qq.com^
+||otheve.beacon.qq.com^
+||android.bugly.qq.com^
+||h.trace.qq.com^
+||trace.inlong.qq.com^
+||btrace.qq.com^
+||log.tbs.qq.com^
+||rmonitor.qq.com^
+||omgid.qq.com^
+||rumt-zh.com^
+||aegis.cdn-go.cn^
+
+! ----- Bilibili 追踪与日志 (Bilibili Logging) -----
+||dataflow.biliapi.com^
+||line1-log.biligame.net^
+
+! ----- 硬件/系统厂商追踪 (Device Tracking) -----
+||obus-cn.dc.heytapmobi.com^
