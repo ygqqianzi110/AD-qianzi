@@ -1,4 +1,8 @@
-! --- 通用广告/追踪平台 ---
+! =========================================
+! 精简版 AdGuard Home 黑名单规则 (已去重与防误杀)
+! =========================================
+
+! ----- 通用广告/追踪平台 (Advertising & Analytics) -----
 ||app-measurement.com^
 ||graph.facebook.com^
 ||ahdohpiechei.com^
@@ -16,9 +20,7 @@
 ||snssdk.com^
 ||jpush.cn^
 ||jpush.io^
-||et.tanx.com^
-||weatheroffer.com
-||appassets.androidplatform.net^
+||weatheroffer.com^
 ||odin-inference-cn.allawntech.com^
 ||log-auth.zztfly.com^
 ||basic-static-server.infinitynewtab.com^
@@ -33,52 +35,25 @@
 ||devc.zztfly.com^
 ||mum.alibabachengdun.com^
 ||px.effirst.com^
-||s-gm.mmstat.com^
+||mmstat.com^
 ||px.ucweb.com^
 ||log-auth.flysleep.cn^
 ||auth.wosms.cn^
-||log-auth.zztfly.com^
 ||discover.300hu.com^
 ||logos.kiwibrowser.com^
 ||optimizationguide-pa.googleapis.com^
 ||client-upload.cn-shanghai.log.aliyuncs.com^
-||errnewlog.umeng.com^
 ||o427061.ingest.sentry.io^
 ||bytemastatic.com^
-||mon.snssdk.com^
 ||aeventlog.beacon.qq.com^
-||iceudpstat.xdrtc.com^
-||ice-stunserver-v6.xdrtc.com^
-||ice-stunserver.xdrtc.com^
-||hbiceapi.xdrtc.com^
 ||puncher-ipv6.dcdn.baidu.com^
 ||d001.ppos.com^
-||pdns.dnspod.cn^
-||vc-hj-new-brain-v6.ndcpp.com^
-||vc-hj-new-brain.ndcpp.com^
-||vc-hole-v6.ndcpp.com^
-||vc-brain-new-v6.ndcpp.com^
-||vc-mirror-v6.ndcpp.com^
-||vc-hole.ndcpp.com^
-||vc-brain-new.ndcpp.com^
 ||seeds-open.comfylink.com^
 ||grpc.biliapi.net^
 ||tdid.m.qq.com^
-||sdk-config.tanx.com^
 ||sdk.e.qq.com^
-||cnlogs.umengcloud.com^
-||cnlogs.umeng.com^
-||resolve.umeng.com^
-||tobapplog.ctobsnssdk.com
-||toblog.ctobsnssdk.com^
 ||sf6-fe-tos.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao.com^
-||config.jpush.cn^
-||config-ipv6.jpush.cn^
 ||sofire-dr.baidu.com^
-||cnloc.map.baidu.com^
-||lbs.map.qq.com
-||aps.amap.com^
 ||mime.baidu.com^
 ||push-ads-cn.heytapmobi.com^
 ||obus-cn.dc.heytapmobi.com^
@@ -86,42 +61,33 @@
 ||cl-data.ads.heytapmobi.com^
 ||ocloud-uni-gl.heytapmobi.com^
 ||jvod.300hu.com^
-||abtest-ch.snssdk.com^
-||log.snssdk.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||p26-be-pack-sign.pglstatp-toutiao.com^
-||win.gdt.qq.com^
-||mi.gdt.qq.com^
-||et.tanx.com^
 ||image.uczzd.cn^
-||api.sm.cn^
 ||huichuan.sm.cn^
-||dualstack-logs.amap.com^
 ||cdn-mum.alibabachengdun.com^
 ||mdap.alipay.com^
 ||adashx.ut.dingtalk.com^
 ||h-adashx.ut.dingtalk.com^
-||wgo.mmstat.com^
-||log.mmstat.com^
-||gm.mmstat.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
-||aliyuncs.com/adash-emas
 ||acpstatic.cup.com.cn^
-||gw.alicdn.com^
 ||tracking.miui.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
 ||ad.mi.com^
 ||tat.pandora.xiaomi.com^
-||api.ad.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dc-dragate-cn.heytapmobi.com^
 ||mkt-advertisement.tuhu.cn^
 ||duihui.duoduocdn.com^
-||ggtg.duoduocdn.com
+||ggtg.duoduocdn.com^
+||tytx.m.cn.miaohen.com^
+||v2.reachmax.cn^
+||t.in-neo.cn^
 
-! --- 特定应用/网站广告 (如: 虎扑, B站, 京东, 淘宝/天猫, 百度, 支付宝) ---
+! ----- 特定应用广告/统计/追踪 (App Specific Tracking) -----
+! 虎扑 / 体育相关
 ||impress.qiumibao.com^
 ||cache.qiumibao.com^
 ||appck.qiumibao.com^
@@ -129,74 +95,53 @@
 ||nc.qiumibao.com^
 ||tongji.qiumibao.com^
 ||a.qiumibao.com^
+
+! Bilibili 统计与日志
 ||boss.hdslb.com^
-||app.bilibili.com/x/v2/splash/brand/list^
-||app.bilibili.com/x/v2/splash/show^
+||dataflow.biliapi.com^
+||line1-log.biligame.net^
+
+! 京东风控/追踪/日志 (已排除主接口)
 ||waapdg.jd.com^
-||storage.jd.com^
 ||sdkfp.jd.com^
 ||anti-sdk-report.m.jd.com^
 ||heracles.jd.com^
 ||ccflbs.m.jd.com^
-||policy.jd.com^
 ||mars.jd.com^
 ||jpushsc.m.jd.com^
 ||dsap.jd.com^
-||aks.jdpay.com^
 ||blackhole.m.jd.com^
 ||lbsapi.m.jd.com^
 ||perf.m.jd.com^
 ||ex.m.jd.com^
 ||ccfjma.m.jd.com^
-||api.m.jd.com^
 ||im-x.jd.com^
 ||uranus.jd.com^
 ||jstatic.3.cn^
 ||h5st.m.jd.com^
-||ap-dd1.jd.com^
-||ap4-mt.jd.com^
-||pro.m.jd.com^
-||jcap.m.jd.com^
 ||jcapmonitor.m.jd.com^
 ||fireactive.jd.com^
 ||ccf.m.jd.com^
-||guide-acs.m.taobao.com^
-||acs.m.taobao.com^
+
+! 阿里 / 淘宝 / 菜鸟统计 (已排除 CDN 和主网关)
 ||alimei-api.aliyun.com^
-||video-sh.cloudvideocdn.taobao.com^
-||cloud.video.taobao.com^
 ||asearch.alicdn.com^
 ||ilce.alicdn.com^
 ||netflow-reply-mtop.cainiao.com^
 ||lpc-mtop.cainiao.com^
-||report-user-online-event.*.log.aliyuncs.com^
 ||dataservice.alipayobjects.com^
 ||datagw-edge.alipay.com^
-||mdn.alipayobjects.com^
+
+! 百度广告/追踪
 ||tcbox.baidu.com^
 ||afd.baidu.com^
 ||afdconf.baidu.com^
 ||ecom.map.baidu.com^
-||lc.map.baidu.com^
 ||api.tuisong.baidu.com^
 ||sofire.baidu.com^
 ||common.lcs.baidu.com^
-! ----- 广点通及腾讯广告服务 (Tencent GDT & Ads) -----
-||v.gdt.qq.com^
-||vr.gdt.qq.com^
-||xs.gdt.qq.com^
-||rpt.gdt.qq.com^
-||isrpt-vn.gdt.qq.com^
-||adsmind.gdtimg.com^
-||pgdt.gdtimg.cn^
-||sdkreport.e.qq.com^
 
-! ----- 第三方广告与统计平台 (Third-Party Ads & Tracking) -----
-||tytx.m.cn.miaohen.com^
-||v2.reachmax.cn^
-||t.in-neo.cn^
-
-! ----- 腾讯数据分析/统计/崩溃上报 (Analytics, Telemetry & Logs) -----
+! 腾讯分析 / Telemetry / Log
 ||galileotelemetry.tencent.com^
 ||beacon.cdn.qq.com^
 ||mqqeve.beacon.qq.com^
@@ -210,10 +155,3 @@
 ||omgid.qq.com^
 ||rumt-zh.com^
 ||aegis.cdn-go.cn^
-
-! ----- Bilibili 追踪与日志 (Bilibili Logging) -----
-||dataflow.biliapi.com^
-||line1-log.biligame.net^
-
-! ----- 硬件/系统厂商追踪 (Device Tracking) -----
-||obus-cn.dc.heytapmobi.com^
