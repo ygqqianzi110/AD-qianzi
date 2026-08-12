@@ -1,8 +1,9 @@
 ! =========================================
 ! AdGuard Home 汇总黑名单规则 (已去重/防误杀)
 ! =========================================
-
-! ----- 通用广告/追踪平台 (Advertising & Analytics) -----
+||m1.img.10010.com^
+||oss.newbuy.chinaunicom.cn^
+||mshield.baidu.com^
 ||app-measurement.com^
 ||graph.facebook.com^
 ||ahdohpiechei.com^
