@@ -22,7 +22,6 @@
 ||jpush.cn^
 ||jpush.io^
 ||weatheroffer.com^
-||odin-inference-cn.allawntech.com^
 ||log-auth.zztfly.com^
 ||basic-static-server.infinitynewtab.com^
 ||gslb.finzfin.com^
