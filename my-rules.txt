@@ -155,4 +155,15 @@
 ||dc-dragate-cn.heytapmobi.com^
 ||uc-track-gl.heytapmobi.com^
 ||ums-telemetry-cn.heytapmobi.com^
-
+||gdt.qq.com^
+||rpt.gdt.qq.com^
+||v.gdt.qq.com^
+||vr.gdt.qq.com^
+||h.trace.qq.com^
+||monitor.l.qq.com^
+||livep.l.qq.com^
+||p.l.qq.com^
+||snowflake.qq.com^
+||x.research.qq.com^
+||a.fxltsbl.com^
+||chn-feedback.adsrvr.cn^
