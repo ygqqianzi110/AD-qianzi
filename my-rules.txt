@@ -1,6 +1,8 @@
 ! =========================================
 ! AdGuard Home 汇总黑名单规则 (已去重/防误杀)
 ! =========================================
+||tanx.com^
+||wuchucloud.cn^
 ||m1.img.10010.com^
 ||oss.newbuy.chinaunicom.cn^
 ||mshield.baidu.com^
