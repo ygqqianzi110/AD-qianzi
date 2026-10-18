@@ -153,7 +153,6 @@
 ||obus-cn.dc.heytapmobi.com^
 ||sms.ads.heytapmobi.com^
 ||cl-data.ads.heytapmobi.com^
-||ocloud-uni-gl.heytapmobi.com^
 ||dc-dragate-cn.heytapmobi.com^
 ||uc-track-gl.heytapmobi.com^
 ||ums-telemetry-cn.heytapmobi.com^
